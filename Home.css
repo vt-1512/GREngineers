@@ -1,0 +1,32 @@
+
+
+.home-content{
+    
+    height:70vh;
+    
+    padding-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+    justify-content: center;
+    background-color: rgb(163, 163, 163);
+    /* background-color:rgb(231, 179, 34); */
+    
+}
+
+.welcome{
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+.company-name{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.intro-two{
+    /* background-color: aqua; */
+    padding-top: 2rem;
+    padding: 3rem;
+    text-align: center;
+}
